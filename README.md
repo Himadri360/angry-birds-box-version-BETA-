@@ -1,1 +1,1 @@
-# angry-birds-box-version-BETA-
+# Box Class
